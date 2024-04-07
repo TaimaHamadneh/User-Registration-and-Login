@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\taima\\Desktop\\New folder\\auth\\auth.csproj": {}
+    "C:\\Users\\taima\\Desktop\\auth\\auth\\auth.csproj": {}
   },
   "projects": {
-    "C:\\Users\\taima\\Desktop\\New folder\\auth\\auth.csproj": {
+    "C:\\Users\\taima\\Desktop\\auth\\auth\\auth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\taima\\Desktop\\New folder\\auth\\auth.csproj",
+        "projectUniqueName": "C:\\Users\\taima\\Desktop\\auth\\auth\\auth.csproj",
         "projectName": "auth",
-        "projectPath": "C:\\Users\\taima\\Desktop\\New folder\\auth\\auth.csproj",
+        "projectPath": "C:\\Users\\taima\\Desktop\\auth\\auth\\auth.csproj",
         "packagesPath": "C:\\Users\\taima\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\taima\\Desktop\\New folder\\auth\\obj\\",
+        "outputPath": "C:\\Users\\taima\\Desktop\\auth\\auth\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\taima\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+k7HvhMnxbOJwU6wPbs2/UQupLnXxm+PXi90AeXB1TGA2NVMAC3bpxpjimJ9l4r80pG+JURzGz78vIbCxcLyTw==",
+  "dgSpecHash": "yMfiA67EOOndgPAxf9c9WXT3IDvr8hK8z+5/sfwowv2uqsA2a+TxIPLkzna70qdTDyh84JpvhroDiz6jMCmgRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\taima\\Desktop\\New folder\\auth\\auth.csproj",
+  "projectFilePath": "C:\\Users\\taima\\Desktop\\auth\\auth\\auth.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\taima\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\taima\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
